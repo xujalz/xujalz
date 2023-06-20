@@ -1,8 +1,6 @@
 I'm a 2024 undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of
 computer engineering and learning web development - React. I love exploring and learning new tech stack.
 
-                                        Thought : "Life is full of choices…choose wisely!”
-
 About me...
 
 - 🤝 I'm looking to collaborate on exciting projectswhich helps us to make our lives more efficient.
