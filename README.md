@@ -9,8 +9,6 @@ About me...
 - 🗨️ Ask me about Java, HTML, CSS, Bootstrap, React.
 - 🌱 Feel free to ping me on LinkedIn, If am alive I will answer within seconds.😄
 
-
-
 <!---
 xujalz/xujalz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
