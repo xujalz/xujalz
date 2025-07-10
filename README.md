@@ -4,7 +4,7 @@ computer engineering and learning web development - React. I love exploring and 
 About me...
 
 - 🤝 I'm looking to collaborate on exciting projects which helps us to make our lives more efficient.
-- 🗨️ Ask me about Java, HTML, CSS, Bootstrap, React.
+- 🗨️ Ask me about Java, HTML, CSS, Bootstrap, React, NodeJs, Express, MongoDB, SQL.
 - 🌱 Feel free to ping me on LinkedIn, If am alive I will answer within seconds.😄
 
 <!---
